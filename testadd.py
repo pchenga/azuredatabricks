@@ -1,2 +1,8 @@
 # Databricks notebook source
-spark
+
+
+# COMMAND ----------
+
+# MAGIC %sql
+# MAGIC 
+# MAGIC describe extended  emp_details
